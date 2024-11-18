@@ -1,0 +1,8 @@
+# Directorio local_tmp
+local_tmp
+
+# Archivos .tmp
+*.tmp
+
+# Archivos .env
+*.env
